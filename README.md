@@ -1,2 +1,2 @@
-# grupo25-PI
+# Grupo 25 
 Projeto Integrador III Senac - Grupo 25
