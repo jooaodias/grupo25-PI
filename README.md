@@ -2,11 +2,28 @@
 
 Projeto Integrador III Senac - Grupo 25.
 
+## Alunos
+
+- Denison Vieira Pimenta [rockydenison](https://github.com/rockydenison)
+- Gabriel Krug de Oliveira [gabrielkrug](https://github.com/gabrielkrug)
+- João Vitor Aleixo Dias [jooaodias](https://github.com/jooaodias)
+- Raquel Barros Freitas [rakeu](https://github.com/rakeu)
+
+## Sobre o Sistema
+
 - O protótipo foi feito na ferramenta [Figma\*](https://www.figma.com/file/PzAcLMEwfxA1lesZVX1l7K/Projeto-Integrador?type=design&node-id=0-1&mode=design&t=bYldgHHhLABz8Zgc-0).
 - Há 3 tipos de usuário nessa sistema:
   - [Aluno](#aluno)
   - [Professor](#professor)
   - [Fornecedor](#fornecedor)
+
+### Diagrama de casos de uso
+
+<img src="imgs/caso_de_uso.jpeg" alt="Diagrama de casos de uso" width="600">
+
+### Diagrama de classes
+
+<img src="imgs/classes.jpeg" alt="Diagrama de classes" width="600">
 
 ## Aluno
 
